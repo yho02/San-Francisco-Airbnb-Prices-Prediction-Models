@@ -15,6 +15,7 @@ This project analyzes 10,000+ Airbnb listings in San Francisco (2024–2025) to 
 ### Predictive Models
 We implemented and compared the following models:
 * Linear Regression (baseline)
+* CART
 * Random Forest
 * Gradient Boosting
 
